@@ -1,6 +1,6 @@
 /* eslint-disable no-unused-vars */
-const bonjour = "toto";
+const hello = "World";
 
-function toto() {
+function dumb() {
     return "hello world";
 }

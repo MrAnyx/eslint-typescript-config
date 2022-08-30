@@ -1,0 +1,13 @@
+{
+    "[javascript][typescript]": {
+        "editor.formatOnSave": false
+    },
+    "[css][scss][sass][less][json][jsonc][yaml][markdown]": {
+        "editor.formatOnSave": true,
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.codeActionsOnSave": {
+        "source.fixAll": true
+    },
+    "typescript.tsdk": "node_modules\\typescript\\lib"
+}
